@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Naman Jha! 🧑‍💻 Aspiring Graduate | 🌐 Software Developer/ IT | 💡 Problem Solver
+# 👋 Hi there, 
+# I'm Naman Jha! 🧑‍💻 Aspiring Graduate | 🌐 Software Developer/ IT | 💡 Problem Solver
 
 As I approach graduation next semester with a degree in Computer Science at University of Guelph, I'm excited to embark on a journey to create impactful, scalable, and innovative solutions. My GitHub serves as a portfolio of my skills, passion, and dedication to the craft of software engineering.
 
