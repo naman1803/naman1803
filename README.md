@@ -23,14 +23,12 @@ As I approach graduation next semester with a degree in Computer Science at Univ
 ### ♟️ **Predicting Professional Players' Chess Moves with Deep Learning**
 **Description**: Designed a chess AI using deep learning to predict chess moves without reinforcement learning. Deployed the model on the web for interactive use.  
 **Tech Stack**: Python, TensorFlow, Flask.   
-[GitHub Repository](#)
 
 ---
 
 ### 🗺️ **CrapMap**  
 **Description**: A map-based web app visualizing the impact of industrial wastewater on drinking water quality. Integrated environmental datasets and created RESTful APIs for robust data handling.  
 **Tech Stack**: Docker, Spring Boot, MariaDB, Python for fetching data, Java for backend, UML diagrams to present structure of the project. 
-[GitHub Repository](#)
 
 ---
 
