@@ -19,23 +19,16 @@ As I approach graduation next semester with a degree in Computer Science at Univ
 
 ## 📂 Highlighted Projects
 
-### 🧩 [Project Name]  
-**Description**: Briefly describe the project, its goal, and its impact.  
-**Tech Stack**: List the key technologies used (e.g., Python, Flask, React, PostgreSQL).  
-[GitHub Repository](#) | [Demo](#)
-
----
-
 ### ♟️ **Predicting Professional Players' Chess Moves with Deep Learning**
 **Description**: Designed a chess AI using deep learning to predict chess moves without reinforcement learning. Deployed the model on the web for interactive use.  
-**Tech Stack**: Python, TensorFlow, Flask, React.  
+**Tech Stack**: Python, TensorFlow, Flask.   
 [GitHub Repository](#)
 
 ---
 
 ### 🗺️ **CrapMap**  
 **Description**: A map-based web app visualizing the impact of industrial wastewater on drinking water quality. Integrated environmental datasets and created RESTful APIs for robust data handling.  
-**Tech Stack**: Docker, Spring Boot, MariaDB, Python.  
+**Tech Stack**: Docker, Spring Boot, MariaDB, Python for fetching data, Java for backend, UML diagrams to present structure of the project. 
 [GitHub Repository](#)
 
 ---
@@ -43,28 +36,22 @@ As I approach graduation next semester with a degree in Computer Science at Univ
 ## 🛠️ Skills and Tools
 
 ### **Languages**
-- **Programming**: [JavaScript, Python, Java, SQL, etc.]
-- **Scripting**: [e.g., Bash, PowerShell]
+- **Programming**: JavaScript, Python, Java, SQL, React and C.
+- **Scripting**: PowerShell
 
 ### **Frameworks and Tools**
-- **Web Development**: [React, Node.js, etc.]
-- **Back-End**: [Spring Boot, Flask]
-- **Data Management**: [MySQL, MongoDB]
-- **DevOps**: [Docker, Kubernetes, GitHub Actions]
+- **Web Development**: React, Node.js, HTML and CSS.
+- **Back-End**: Spring Boot
+- **Data Management**: MongoDB
+- **DevOps**: Docker and GitHub Actions
 
 ### **Others**
-- **Soft Skills**: [e.g., Leadership, Communication, Collaboration]
-- **Certifications**: [Relevant certifications, e.g., AWS Certified, etc.]
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- **Soft Skills**: Leadership, Communication, Collaboration
+- **Certifications**: AWS certified
 
 ---
 
 ## 🌍 Let's Connect!
-- 🌐 [Portfolio Website](#)
 - 📧 [njha@uoguelph.ca](mailto:njha@uoguelph.ca)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/naman18jha/)
+
