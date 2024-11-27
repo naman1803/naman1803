@@ -12,7 +12,8 @@ As I approach graduation next semester with a degree in Computer Science at Univ
 - 📫 Connect with me on LinkedIn or reach out via email: [njha@uoguelph.ca](mailto:njha@uoguelph.ca).
 - 📊 **What I Bring to the Table**:  
   - **Technical Skills**: Proficient in Python/Java and cloud services like AWS.
-  - **Teamwork & Leadership**: Problem-Solving: Tackled complex challenges in Machine Learning areas as well.
+  - **Teamwork & Leadership**:
+  - **Problem-Solving**: Tackled complex challenges in Machine Learning areas as well.
 
 ---
 
