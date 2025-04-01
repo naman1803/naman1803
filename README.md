@@ -46,11 +46,12 @@ As I approach graduation this semester with a degree in Computer Science at Univ
 
 ### **Others**
 - **Soft Skills**: Leadership, Communication, Collaboration
-- **Certifications**: AWS certified
 
 ---
 
 ## 🌍 Let's Connect!
 - 📧 [njha@uoguelph.ca](mailto:njha@uoguelph.ca)
 - 💼 [LinkedIn](https://www.linkedin.com/in/naman18jha/)
+- 🌎 [https://naman1803.github.io/personalwebsite/)
+  
 
